@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xgfe/react-native-datepicker.git"
+    "url": "git+https://github.com/iamtoxa/react-native-datepicker.git"
   },
   "keywords": [
     "react-native",
     "DatePicker"
   ],
-  "author": "xgfe",
+  "author": "iamtoxa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xgfe/react-native-datepicker/issues"
+    "url": "https://github.com/iamtoxa/react-native-datepicker/issues"
   },
-  "homepage": "https://github.com/xgfe/react-native-datepicker#readme",
+  "homepage": "https://github.com/iamtoxa/react-native-datepicker#readme",
   "dependencies": {
     "moment": "^2.22.0"
   },
