@@ -8,11 +8,11 @@ import {
   TouchableHighlight,
   DatePickerAndroid,
   TimePickerAndroid,
-  DatePickerIOS,
   Platform,
   Animated,
   Keyboard
 } from 'react-native';
+import DatePickerIOS from '@react-native-community/datetimepicker/ios';
 import Style from './style';
 import Moment from 'moment';
 
